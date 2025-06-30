@@ -3,7 +3,7 @@ How to Sign In TotalAV Account?
 
 TotalAV is a trusted antivirus and cybersecurity solution that helps protect your digital devices against malware, ransomware, phishing, and other online threats. To access your personal dashboard, manage your subscription, and enable security features, you must sign in to your TotalAV account.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: signin.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
